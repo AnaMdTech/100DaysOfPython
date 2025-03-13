@@ -4,7 +4,11 @@
 
 Today, we will:  
 
--
+- Perform if/else statements
+- Use Modulo for Even/Odd Number identifier challenge
+- Learn how Nesting and elif statements works
+- Understand Multiple ifs statements
+- Use logical operators for decision-making. 
 
 ## 🚀 Steps  
 
